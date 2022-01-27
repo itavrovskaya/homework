@@ -20,7 +20,7 @@ public class Main {
         System.out.println(g);
         int age = 22;
         System.out.println(age);
-        boolean isAge = age < 35;
+        boolean isAge = age <= 35;
         System.out.println(isAge);
         char h = 33;
         char i = '!';
